@@ -62,9 +62,40 @@ namespace Program
 
         }
 
+        //Ham nhap
+        static void VD2fixed_NhapMang( ref int[] a, ref int n){
+            Console.Write("Nhap so n: ");
+            while(!int.TryParse(Console.ReadLine(), out n) || n<=2 || n>=20)
+                Console.Write("Nhap lai n!!");
+
+            a = new int[n];
+            for(int i=0; i<n; i++){
+                Console.Write("Nhap so a[{0}]: ",i);
+                a[i] = Convert.ToInt32(Console.ReadLine());
+            }
+        }
+
+        //Ham tinh tong
+        static int VD2fixed_Tong(int[] a, int n){
+            int s=0;
+            foreach(int x in a)
+                if(x>0)
+                    s+=x;
+
+            return s;
+
+
+        }
+
+
         static void Main(){
             int n=0;
-            VD2( ref n);
+            int[] a = new int[n];
+            //VD2( ref n);
+            VD2fixed_NhapMang(ref a, ref n);
+            Console.Write("Tong cac phan tu trong mang: {0}\n",VD2fixed_Tong(a,n));
+
+
     }
 
 }
