@@ -88,6 +88,8 @@ namespace Program
         }
 
 
+
+
         static void Main(){
             int n=0;
             int[] a = new int[n];

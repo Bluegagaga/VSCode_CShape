@@ -1,0 +1,15 @@
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/bin/Debug/net8.0/OOP_Test
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/bin/Debug/net8.0/OOP_Test.deps.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/bin/Debug/net8.0/OOP_Test.runtimeconfig.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/bin/Debug/net8.0/OOP_Test.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/bin/Debug/net8.0/OOP_Test.pdb
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.AssemblyInfoInputs.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.AssemblyInfo.cs
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.csproj.CoreCompileInputs.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.sourcelink.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/refint/OOP_Test.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.pdb
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/OOP_Test.genruntimeconfig.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/OOP_Test/OOP_Test/obj/Debug/net8.0/ref/OOP_Test.dll

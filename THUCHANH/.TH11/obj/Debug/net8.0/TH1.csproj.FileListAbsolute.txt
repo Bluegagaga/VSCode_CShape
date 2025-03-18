@@ -1,0 +1,15 @@
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/bin/Debug/net8.0/TH1
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/bin/Debug/net8.0/TH1.deps.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/bin/Debug/net8.0/TH1.runtimeconfig.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/bin/Debug/net8.0/TH1.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/bin/Debug/net8.0/TH1.pdb
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.AssemblyInfoInputs.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.AssemblyInfo.cs
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.csproj.CoreCompileInputs.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.sourcelink.json
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/refint/TH1.dll
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.pdb
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/TH1.genruntimeconfig.cache
+/run/media/huycacbui/RELIFE/github/VSCode_CShape/THUCHANH/TH1/TH1/obj/Debug/net8.0/ref/TH1.dll
